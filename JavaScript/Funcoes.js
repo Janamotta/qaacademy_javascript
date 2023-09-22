@@ -40,4 +40,17 @@ function    subtracaoComRetorno(a,b,i){
     return  subtrair;
 }
 
-console.log(subtracaoComRetorno(10,20,30))
+console.log(subtracaoComRetorno(10,20,30))];
+
+// Cire um método que retorne a multiplicação de 2 valores e imprima o retorno
+function mult(a,b){
+    const mult = a*b;
+    return  mult;
+    console.log(mult(52*10));
+}
+
+// Crie um método que retorne uma frase e imprima o retorno
+function    imprimirFrase(frase){
+    return frase;
+}
+console.log(imprimirFrase("o amor é lindo"));
